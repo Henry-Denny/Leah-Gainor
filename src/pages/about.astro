@@ -5,6 +5,20 @@ import siteConfig from '../../site.config.mjs';
 
 const profileImage = siteConfig.profileImage;
 const base = import.meta.env.BASE_URL;
+
+export function getAge() {
+	const today = new Date();
+	const dob = new Date('2004-07-24');
+
+	let age = today.getFullYear() - dob.getFullYear();
+	const m = today.getMonth() - dob.getMonth();
+	const d = today.getDate() - dob.getDate();
+
+	if (m < 0 || (m == 0 && d < 0)) {
+		age--;
+	}
+	return age;
+}
 ---
 
 <MainLayout>
@@ -26,7 +40,14 @@ const base = import.meta.env.BASE_URL;
 				</div>
 
 				<div class="prose text-gray-700 mb-6">
-					<AboutPage />
+					<h3>My Background</h3>
+					<p>
+						Leah Gainor is a {getAge()}-year-old British photographer based in the South West of
+						England. Her practice is driven by curiosity and a personal connection to the subjects
+						she explores. Leah’s work often begins with something that captures her interest,
+						whether through experience, memory, or a desire to understand it more deeply and grows
+						into a thoughtful visual investigation through photography.
+					</p>
 				</div>
 			</div>
 		</div>
