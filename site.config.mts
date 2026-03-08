@@ -11,7 +11,7 @@ export default {
   title: 'LG',
   favicon: 'LG.ico',
   owner: 'Leah Gainor',
-  profileImage: 'profile.webp',
+  profileImage: 'profile.jpg',
   socialLinks: [
     {
       name: 'LinkedIn',

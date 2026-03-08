@@ -1,90 +1,228 @@
 collections:
-  - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: beware-of-trains
+    name: Beware of Trains
+  - id: black-and-white-film-images
+    name: Black and White Film Images
+  - id: textiles-collaboration
+    name: Textiles Collaboration
 images:
-  - path: nature/nature-2.jpg
+  - path: textiles-collaboration/TC001.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: Textiles Collaboration Collection
+      description: Textiles Collaboration
       collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
+        - textiles-collaboration
         - featured
-        - nature
     exif: {}
-  - path: nature/nature-5.jpg
+  - path: textiles-collaboration/TC002.jpg
     meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
+      title: Textiles Collaboration Collection
+      description: Textiles Collaboration
       collections:
-        - nature
+        - textiles-collaboration
     exif: {}
-  - path: nature/nature-7.jpg
+  - path: textiles-collaboration/TC003.jpg
     meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
+      title: Textiles Collaboration Collection
+      description: Textiles Collaboration
       collections:
+        - textiles-collaboration
+    exif: {}
+  - path: textiles-collaboration/TC004.jpg
+    meta:
+      title: Textiles Collaboration Collection
+      description: Textiles Collaboration
+      collections:
+        - textiles-collaboration
+    exif: {}
+  - path: textiles-collaboration/TC005.jpg
+    meta:
+      title: Textiles Collaboration Collection
+      description: Textiles Collaboration
+      collections:
+        - textiles-collaboration
+    exif: {}
+  - path: textiles-collaboration/TC006.jpg
+    meta:
+      title: Textiles Collaboration Collection
+      description: Textiles Collaboration
+      collections:
+        - textiles-collaboration
+    exif: {}
+  - path: black-and-white-film-images/BaWFI001.jpg
+    meta:
+      title: Black and White Film Images Collection
+      description: Black and White Film Images
+      collections:
+        - black-and-white-film-images
         - featured
-        - nature
     exif: {}
-  - path: nature/nature-8.jpg
+  - path: black-and-white-film-images/BaWFI002.jpg
     meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
+      title: Black and White Film Images Collection
+      description: Black and White Film Images
       collections:
-        - nature
+        - black-and-white-film-images
     exif: {}
-  - path: nature/L1002174.jpg
+  - path: black-and-white-film-images/BaWFI003.jpg
     meta:
-      title: Travel scene 6
-      description: null
+      title: Black and White Film Images Collection
+      description: Black and White Film Images
       collections:
+        - black-and-white-film-images
+    exif: {}
+  - path: black-and-white-film-images/BaWFI004.jpg
+    meta:
+      title: Black and White Film Images Collection
+      description: Black and White Film Images
+      collections:
+        - black-and-white-film-images
+    exif: {}
+  - path: black-and-white-film-images/BaWFI005.jpg
+    meta:
+      title: Black and White Film Images Collection
+      description: Black and White Film Images
+      collections:
+        - black-and-white-film-images
+    exif: {}
+  - path: black-and-white-film-images/BaWFI006.jpg
+    meta:
+      title: Black and White Film Images Collection
+      description: Black and White Film Images
+      collections:
+        - black-and-white-film-images
+    exif: {}
+  - path: black-and-white-film-images/BaWFI007.jpg
+    meta:
+      title: Black and White Film Images Collection
+      description: Black and White Film Images
+      collections:
+        - black-and-white-film-images
+    exif: {}
+  - path: beware-of-trains/BoT001.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
         - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
     exif: {}
-  - path: street/stree-1.jpg
+  - path: beware-of-trains/BoT002.jpg
     meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
+      title: Beware of Trains Collection
+      description: Beware of Trains
       collections:
-        - featured
-        - street
+        - beware-of-trains
     exif: {}
-  - path: travel/travel-1.jpg
+  - path: beware-of-trains/BoT003.jpg
     meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
+      title: Beware of Trains Collection
+      description: Beware of Trains
       collections:
-        - featured
-        - travel
+        - beware-of-trains
     exif: {}
-  - path: nature/nature-1.jpg
+  - path: beware-of-trains/BoT004.jpg
     meta:
-      title: Nature 1
-      description: ''
+      title: Beware of Trains Collection
+      description: Beware of Trains
       collections:
-        - nature
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT005.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT006.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT007.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT008.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT009.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT010.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT011.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT012.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT013.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT014.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT015.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT016.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT017.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
+    exif: {}
+  - path: beware-of-trains/BoT018.jpg
+    meta:
+      title: Beware of Trains Collection
+      description: Beware of Trains
+      collections:
+        - beware-of-trains
     exif: {}
